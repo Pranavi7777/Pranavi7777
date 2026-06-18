@@ -1,4 +1,3 @@
-#Sai Pranavi 
 # 💫 About Me:
 Hi there, I'm Pranavi 👋<br>🎓 B.Tech Student in Computer Science & Data Science<br>📍 Andhra Pradesh, India<br>📊 Passionate about Data Science, AI & Machine Learning<br>💻 Skilled in Python, SQL, Java, Tableau, Power BI, and Machine Learning<br>🏆 First Prize Winner at the IET Hyderabad Local Network Hackathon with an AI-Based Farmer Credit Intelligence Platform<br>🌱 Currently learning Advanced Machine Learning, Deep Learning, and Data Engineering<br>🚀 Interested in Data Science, Data Analyst, AI/ML, and Software Development roles<br>📈 Love turning data into actionable insights and building real-world solutions
 
