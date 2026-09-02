@@ -39,23 +39,23 @@
 ### Computer Science & Data Science Undergraduate
 
 I enjoy building practical solutions using **Data Science, Machine Learning,
-Artificial Intelligence, and Data Analytics**.
+Artificial Intelligence, Generative AI, and Data Analytics**.
 
 <br>
 
-> **Understand the problem → Explore the data → Build → Evaluate → Deploy → Impact**
+> **Understand the Problem → Explore the Data → Build → Evaluate → Deploy → Impact**
 
 </div>
 
 ---
 
-## 🎯 Career Snapshot
+# 🎯 Career Snapshot
 
 <div align="center">
 
-| 🎓 Education | 📊 CGPA | 🏆 Achievement | 💡 Interests |
+| 🎓 Education | 📊 CGPA | 🏆 Achievement | 💡 Focus Areas |
 |:---:|:---:|:---:|:---:|
-| B.Tech CSE — Data Science | **9.06 / 10** | **🥇 1st Prize — IET Hyderabad Hackathon** | Data · AI/ML · Software |
+| B.Tech CSE — Data Science | **9.06 / 10** | **🥇 1st Prize — IET Hyderabad Hackathon** | Data · AI/ML · Analytics · Software |
 
 </div>
 
@@ -63,7 +63,9 @@ Artificial Intelligence, and Data Analytics**.
 
 <div align="center">
 
-**📍 Andhra Pradesh, India**
+📍 **Andhra Pradesh, India**
+
+**Aspiring Data Scientist & Data Analyst**
 
 **Open to:** Data Analyst · Data Science · AI/ML · Software Development Roles
 
@@ -73,25 +75,26 @@ Artificial Intelligence, and Data Analytics**.
 
 # 👩‍💻 About Me
 
-I'm **Sai Pranavi Karumuri**, a Computer Science & Data Science student
-interested in building technology that transforms data into useful
-decisions and real-world solutions.
+I'm **Sai Pranavi Karumuri**, a Computer Science & Data Science undergraduate
+passionate about transforming data into meaningful insights and practical
+technology solutions.
 
-My work spans across:
+My interests span across:
 
 - 📊 **Data Analytics & Visualization**
 - 🤖 **Machine Learning & Predictive Modeling**
 - 🧠 **Artificial Intelligence & Generative AI**
+- 🔎 **Retrieval-Augmented Generation (RAG)**
 - 🐍 **Python & SQL**
 - ⚙️ **API Development & Software Engineering**
 - 📈 **Tableau & Power BI**
-- ☁️ **Cloud & Deployment Fundamentals**
+- ☁️ **Cloud & Enterprise Technologies**
 
-I particularly enjoy projects where **data, technology, and real-world
-problem solving come together**.
+I enjoy working on problems where **data, AI, software, and real-world
+impact** come together.
 
-Currently, I'm strengthening my knowledge in **Advanced Machine Learning,
-Deep Learning, Generative AI, and Data Engineering**.
+Currently, I am strengthening my skills in **Machine Learning,
+Generative AI, Data Analytics, Cloud Technologies, and Data Engineering**.
 
 ---
 
@@ -105,21 +108,30 @@ Deep Learning, Generative AI, and Data Engineering**.
 
 </div>
 
-Built an **AI-driven Farmer Credit Intelligence Platform** aimed at
-supporting better credit assessment and financial decision-making for
-farmers.
+Our team **CodeAura** secured **1st Prize among 87+ teams** at the
+IET Hyderabad Local Network Hackathon conducted at VIT-AP University.
 
-### 🔍 Key Focus
+We developed an **AI-Based Farmer Credit Intelligence Platform** that
+uses agricultural transaction behavior and farmer-specific risk factors
+to support credit assessment and financial decision-making.
 
-- Farmer credit intelligence
-- Data-driven risk assessment
-- AI/ML-based decision support
-- Real-world financial problem solving
-- Translating a business problem into a technology solution
+### 🔍 Key Highlights
 
-<br>
+- 🌾 Farmer transaction-based credit intelligence
+- 💳 Credit score generation
+- 🌦️ Crop, income and weather-based risk factors
+- 🚨 Disaster-aware credit adjustment
+- 📊 Data-driven risk assessment
+- 🔄 Real-time credit score simulation
+- 💡 Personalized improvement suggestions
 
-<div align="center">
+### 💻 Repository
+
+<a href="https://github.com/Pranavi7777/AI-Farmer-credit-Analysis">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/🥇%20FIRST%20PRIZE-IET%20HYDERABAD-00B4D8?style=for-the-badge"/>
 
@@ -131,7 +143,7 @@ farmers.
 
 <div align="center">
 
-### Selected Work Across Data, AI & Software
+### Selected Projects Across Data Science, AI, Analytics & Software
 
 </div>
 
@@ -143,28 +155,27 @@ farmers.
 
 <td width="50%" valign="top">
 
-## 🌊 Flood Prediction System
+## 🧠 RAG THALA AI
 
-Machine learning solution focused on predicting flood risk using
-historical and environmental data.
+Generative AI project exploring **LLMs and Retrieval-Augmented
+Generation (RAG)** for context-aware AI applications.
 
-### Key Work
+### Focus Areas
 
-- Data preprocessing
-- Exploratory Data Analysis
-- Feature engineering
-- Machine learning model development
-- Model evaluation
-- Prediction workflow
+- Retrieval-Augmented Generation
+- LLM applications
+- Context-aware responses
+- Prompt engineering
+- AI application development
 
 **Stack**
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Flask`
+`Python` `Generative AI` `RAG` `LLMs`
 
 <br>
 
-<a href="https://github.com/Pranavi7777">
-<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-161B22?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/Pranavi7777/RAG_THALA-AI_-Project">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -173,132 +184,146 @@ historical and environmental data.
 
 ## 💳 Smart Lender
 
-Machine learning project focused on **credit analysis and lending
-decision support** using applicant information.
+Machine learning project focused on **credit eligibility prediction**
+and lending decision support.
+
+### Key Work
+
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature engineering
+- Machine learning
+- Credit eligibility prediction
+- Model evaluation
+
+**Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
+
+<br>
+
+<a href="https://github.com/Pranavi7777/smart_lender_credit_eligiblity">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌾 AI Farmer Credit Analysis
+
+AI-based solution developed for the **IET Hyderabad Local Network
+Hackathon**, focused on farmer credit intelligence.
+
+### Key Work
+
+- Farmer credit analysis
+- Risk assessment
+- Credit score generation
+- Agricultural data analysis
+- Disaster-aware risk adjustment
+- Decision support
+
+**Stack**
+
+`Python` `AI/ML` `Data Science` `Credit Analysis`
+
+<br>
+
+<a href="https://github.com/Pranavi7777/AI-Farmer-credit-Analysis">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌊 Flood Prediction System
+
+Machine learning solution for predicting flood risk using environmental
+and weather-related data.
+
+### Key Work
+
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature engineering
+- Machine learning model development
+- Prediction
+- Model evaluation
+
+**Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Flask`
+
+<br>
+
+<a href="https://github.com/Pranavi7777/flood-prediction-system">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚡ Electricity Consumption Patterns in India
+
+Data analytics project focused on understanding electricity consumption
+patterns and extracting meaningful trends from energy data.
 
 ### Key Work
 
 - Data cleaning
-- Exploratory analysis
-- Feature engineering
-- Predictive modeling
-- Model evaluation
-- Credit-oriented insights
-
-**Stack**
-
-`Python` `Pandas` `Scikit-learn` `Machine Learning`
-
-<br>
-
-<a href="https://github.com/Pranavi7777">
-<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-161B22?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🏭 Factory Data Analytics
-
-Data analytics project focused on transforming factory-related data
-into meaningful operational insights.
-
-### Key Work
-
-- Data preparation
-- KPI analysis
-- Trend identification
-- Interactive dashboards
-- Business-oriented insights
-
-**Stack**
-
-`Tableau` `Data Analytics` `Data Visualization`
-
-<br>
-
-<a href="https://github.com/Pranavi7777">
-<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-161B22?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## ⚡ Energy Analytics Dashboard
-
-Interactive Power BI solution designed to explore energy-related
-patterns and trends through business intelligence.
-
-### Key Work
-
-- Data transformation
-- KPI development
+- Exploratory Data Analysis
 - Trend analysis
-- Interactive dashboard design
-- Data-driven reporting
+- Data visualization
+- Pattern identification
+- Analytical insights
 
 **Stack**
 
-`Power BI` `DAX` `Data Analytics` `Visualization`
+`Python` `Pandas` `NumPy` `Matplotlib` `Data Analytics`
 
 <br>
 
-<a href="https://github.com/Pranavi7777">
-<img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-161B22?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/Pranavi7777/Electricity_consumption_patterns--in--India">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
-## 🧠 Generative AI / RAG
+## 🌐 Personal Portfolio
 
-Exploring Generative AI applications using **LLM and
-Retrieval-Augmented Generation concepts**.
+A personal portfolio website showcasing my **projects, skills,
+certifications, internships, and achievements**.
 
 ### Focus Areas
 
-- Retrieval workflows
-- Context-aware generation
-- LLM applications
-- Prompt engineering
-- RAG architecture
+- Personal branding
+- Responsive web development
+- Project showcase
+- Professional profile
+- Career portfolio
 
 **Stack**
 
-`Python` `Generative AI` `RAG` `LLMs`
+`HTML` `CSS` `JavaScript` `Web Development`
 
-</td>
+<br>
 
-<td width="50%" valign="top">
-
-## 🤖 AI / ML Applications
-
-A collection of machine learning experiments and applications focused
-on applying predictive modeling to practical datasets.
-
-### Focus Areas
-
-- Classification
-- Prediction
-- Feature engineering
-- Model comparison
-- Data preprocessing
-- Model evaluation
-
-**Stack**
-
-`Python` `Scikit-learn` `Pandas` `NumPy`
+<a href="https://github.com/Pranavi7777/portfolio_personal-branding">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -322,76 +347,103 @@ on applying predictive modeling to practical datasets.
 
 <div align="center">
 
-### Practical Exposure Across AI, Analytics & Enterprise Technology
+### Practical Exposure Across AI/ML, Data Analytics & Enterprise Technology
 
 </div>
 
 <br>
 
-### 🤖 AI/ML & Cloud Intern — Edunet Foundation
+## 🤖 Artificial Intelligence & Machine Learning Intern
 
-Worked on practical applications of **Artificial Intelligence,
-Machine Learning, and Cloud technologies**.
+### SmartInternz / SmartBridge
 
-**Key Exposure**
+Completed an **Artificial Intelligence & Machine Learning internship**
+with practical exposure to applying AI/ML concepts to real-world
+problems.
 
-- AI/ML application development
-- Hugging Face technologies
-- AI-powered student wellness application
-- Model/API integration
-- Cloud concepts and deployment
+### Key Experience
 
-`AI/ML` `Hugging Face` `Python` `Cloud`
+- Machine learning fundamentals
+- Data preprocessing
+- Model development
+- AI application development
+- Python-based implementation
+- Practical ML project development
+- Built a **Flood Prediction System**
+- Exposure to AI/ML development workflows
+
+**Technologies**
+
+`Python` `Machine Learning` `Data Science` `Scikit-learn`
 
 ---
 
-### 📊 Data Analytics Intern — SmartBridge
+## 📊 Data Analytics Intern
 
-Worked on **Tableau-based data analytics and visualization**, transforming
-data into interactive dashboards and insights.
+### SmartBridge — Tableau
 
-**Key Exposure**
+Worked on **Data Analytics and Visualization using Tableau**, focusing
+on converting raw data into meaningful business insights.
+
+### Key Experience
 
 - Data preprocessing
-- Exploratory analysis
+- Exploratory Data Analysis
+- Data visualization
+- KPI analysis
 - Dashboard development
-- KPI visualization
-- Trend analysis
-- Business insights
+- Trend identification
+- Business-oriented insights
+
+**Technologies**
 
 `Tableau` `Data Analytics` `Data Visualization`
 
 ---
 
-### 📈 Data Analytics Intern — SmartBridge
+## 📈 Data Analytics Intern
 
-Worked on **Power BI business intelligence and dashboard development**.
+### SmartBridge — Power BI
 
-**Key Exposure**
+Worked on **Business Intelligence and Data Analytics using Power BI**.
+
+### Key Experience
 
 - Data transformation
+- Data modeling
 - KPI development
+- Dashboard creation
 - Interactive reporting
 - Trend analysis
 - Business intelligence concepts
+- Data-driven reporting
 
-`Power BI` `DAX` `Data Analytics`
+**Technologies**
+
+`Power BI` `DAX` `Data Analytics` `Business Intelligence`
 
 ---
 
-### ⚙️ ServiceNow Intern
+## ⚙️ ServiceNow Virtual Internship
 
-Gained exposure to **ServiceNow platform concepts, enterprise
-workflows, and application development practices**.
+### SmartBridge
 
-**Key Exposure**
+Completed the **ServiceNow Virtual Internship Program** with practical
+exposure to enterprise service management and workflow automation.
 
-- ServiceNow fundamentals
-- Enterprise workflow concepts
-- IT service management concepts
-- Platform-based application development
+### Key Experience
 
-`ServiceNow` `Enterprise Technology` `Application Development`
+- ServiceNow Administration fundamentals
+- Flows and automation
+- Reports and data handling
+- Workflow concepts
+- IT Service Management fundamentals
+- ServiceNow platform concepts
+- Exposure to CSA certification concepts
+
+**Technologies**
+
+`ServiceNow` `ITSM` `Workflow Automation` `Enterprise Technology`
 
 ---
 
@@ -399,11 +451,7 @@ workflows, and application development practices**.
 
 <div align="center">
 
-## 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark"/>
-
-<br><br>
+## 💻 Programming Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -414,7 +462,7 @@ workflows, and application development practices**.
 
 ---
 
-### 📊 Data Science & Analytics
+## 📊 Data Science & Analytics
 
 <div align="center">
 
@@ -433,7 +481,7 @@ workflows, and application development practices**.
 
 ---
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 
 <div align="center">
 
@@ -452,11 +500,13 @@ workflows, and application development practices**.
 
 ---
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <br><br>
 
@@ -468,26 +518,28 @@ workflows, and application development practices**.
 
 ---
 
-### ⚙️ Development & Deployment
+## ⚙️ Development & Deployment
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,docker,git,github&theme=dark"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/REST%20APIs-00B4D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7"/>
 
 </div>
 
 ---
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 
 <div align="center">
 
@@ -517,24 +569,25 @@ workflows, and application development practices**.
 EDA  
 Data Cleaning  
 Visualization  
-KPI Analysis
+KPI Analysis  
+Dashboarding
 
 </td>
 
 <td width="25%" align="center">
 
-### 🤖 ML
+### 🤖 Machine Learning
 
 Classification  
 Prediction  
 Feature Engineering  
-Evaluation
+Model Evaluation
 
 </td>
 
 <td width="25%" align="center">
 
-### 🧠 AI
+### 🧠 Artificial Intelligence
 
 Generative AI  
 LLMs  
@@ -562,27 +615,47 @@ Deployment
 
 ---
 
-# 📜 Certifications & Professional Profile
+# 📜 Certifications
 
 <div align="center">
 
-### 🎓 Certifications
+### Professional Certifications & Learning Credentials
 
-My certifications, internship credentials, and professional portfolio
-are available here:
+</div>
+
+### ☁️ Cloud & AI
+
+- **AWS Educate — Introduction to Cloud 101**
+- **Oracle Certified Foundations Associate — Agentic AI**
+- **Databricks — Academy Accreditation: Generative AI Fundamentals**
+- **Google Cloud Gen AI Academy — APAC Edition**
+- **IBM SkillsBuild — Artificial Intelligence Fundamentals**
+
+### ⚙️ DevOps & Development
+
+- **Harness Certified Continuous Delivery & GitOps Developer**
+- **Postman API Fundamentals Student Expert**
+- **Copado Certified — Copado AI**
+
+### 🗄️ Data & Databases
+
+- **Neo4j Certified Professional**
+- **Neo4j Graph Data Science Certification**
+- **TiDB Practitioner**
+- **Learning SQL Programming — LinkedIn Learning**
+- **Python for Data Science — NPTEL**
+
+### 🏢 Enterprise Technology
+
+- **ServiceNow Certified Implementation Specialist —
+  Data Foundations (CMDB & CSDM)**
 
 <br>
 
-<a href="https://portfolio-personal-branding.onrender.com/">
-<img src="https://img.shields.io/badge/VIEW%20CERTIFICATIONS%20%26%20PORTFOLIO-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br><br>
-
-### 💼 Professional Profile
+<div align="center">
 
 <a href="https://www.linkedin.com/in/pranavi-karumuri-385283320/">
-<img src="https://img.shields.io/badge/VIEW%20LINKEDIN%20PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20ALL%20CERTIFICATIONS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -635,8 +708,7 @@ are available here:
 
 <br>
 
-**Curiosity** → **Learning** → **Experimentation** → **Problem Solving**
-→ **Impact**
+**Curiosity → Learning → Experimentation → Problem Solving → Impact**
 
 <br>
 
@@ -652,7 +724,8 @@ are available here:
 
 ### Interested in Data, AI/ML, Analytics or Software Development?
 
-I'm open to **learning opportunities, collaborations, internshipsand entry-level roles** where I can contribute, learn, and grow.
+I'm open to **learning opportunities, collaborations, internships,
+and entry-level roles** where I can contribute, learn, and grow.
 
 <br>
 
