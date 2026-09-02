@@ -131,19 +131,19 @@ consumption trends. `Python` `Pandas` `NumPy` `Matplotlib`
 ## 💼 Experience Timeline
 
 ```text
-2024 ──┬── 🤖 AI/ML Intern — SmartInternz / SmartBridge
+2025 ──┬── 🤖 AI/ML Intern — Data Valley
        │     Built Flood Prediction System (data prep → model → deployment)
        │
-       ├── 📊 Data Analytics Intern (Tableau) — SmartBridge
-       │     KPI dashboards & business-oriented visualization
-       │
-       ├── 📈 Data Analytics Intern (Power BI) — SmartBridge
+       ├── 📈 Data Analytics Intern (Power BI) — Data Valley
        │     Data modelling, DAX, interactive BI dashboards
        │
-       └── ⚙️ ServiceNow Virtual Intern — SmartBridge
-             ITSM workflows, automation, reporting
+       ├── ⚙️ ServiceNow Virtual Intern — Data Valley
+       │     ITSM workflows, automation, reporting
+       │
+       └── 🥇 1st Prize, IET Hyderabad Hackathon (87+ teams)
 
-2025 ──── 🥇 1st Prize, IET Hyderabad Hackathon (87+ teams)
+2026 ──── 📊 Data Analytics Intern (Tableau) — Data Valley
+             KPI dashboards & business-oriented visualization
 ```
 
 <br>
