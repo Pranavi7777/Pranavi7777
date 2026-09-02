@@ -91,23 +91,56 @@ competing teams to take first place.
 
 ## 🚀 Projects That Prove It
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Pranavi7777/RAG_THALA-AI_-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavi7777&repo=RAG_THALA-AI_-Project&theme=transparent&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_color=30363d&bg_color=0D1117" width="47%"/>
-</a>
-<a href="https://github.com/Pranavi7777/smart_lender_credit_eligiblity">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavi7777&repo=smart_lender_credit_eligiblity&theme=transparent&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_color=30363d&bg_color=0D1117" width="47%"/>
-</a>
+### 🧠 RAG THALA AI
+**Generative AI · RAG · LLM Applications**
+Context-aware AI system using Retrieval-Augmented Generation to ground LLM answers in real data.
 
-<a href="https://github.com/Pranavi7777/AI-Farmer-credit-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavi7777&repo=AI-Farmer-credit-Analysis&theme=transparent&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_color=30363d&bg_color=0D1117" width="47%"/>
-</a>
-<a href="https://github.com/Pranavi7777/flood-prediction-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavi7777&repo=flood-prediction-system&theme=transparent&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_color=30363d&bg_color=0D1117" width="47%"/>
-</a>
+`Python` `RAG` `LLMs` `Generative AI`
 
-</div>
+[→ View Project](https://github.com/Pranavi7777/RAG_THALA-AI_-Project)
+
+</td>
+<td width="50%">
+
+### 💳 Smart Lender
+**Machine Learning · Credit Eligibility Prediction**
+Full ML pipeline — preprocessing, feature engineering, model training & evaluation — for loan eligibility prediction.
+
+`Python` `Pandas` `Scikit-learn`
+
+[→ View Project](https://github.com/Pranavi7777/smart_lender_credit_eligiblity)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌾 AI Farmer Credit Analysis
+**AI/ML · Credit Intelligence · Risk Analytics**
+🥇 Hackathon-winning solution for agricultural credit risk assessment.
+
+`Python` `ML` `Flask` `Data Science`
+
+[→ View Project](https://github.com/Pranavi7777/AI-Farmer-credit-Analysis)
+
+</td>
+<td width="50%">
+
+### 🌊 Flood Prediction System
+**Machine Learning · Prediction · Flask**
+ML model predicting flood risk from environmental and weather data.
+
+`Python` `Pandas` `Scikit-learn` `Flask`
+
+[→ View Project](https://github.com/Pranavi7777/flood-prediction-system)
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>📂 More Projects</b></summary>
